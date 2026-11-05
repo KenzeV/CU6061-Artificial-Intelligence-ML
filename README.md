@@ -10,3 +10,5 @@ Week 3 - https://maze-algorithm-lecture-week3.ai.studio - Workshop 05 - Agent AI
 Week 4 - https://ai.studio/apps/a7cf106f-d3de-434c-9046-c2b20ccbacee - Unbeatable Noughts an Crosses
 
 Week 5 - https://ai.studio/apps/cfc9700f-53d4-4886-ad9c-40202747c4bb - Wumpus Agent Challenge 
+
+Week 6 - https://ai.studio/apps/3e01d97e-8672-495b-86b2-530acd7580b2 - Agent Collision
