@@ -12,3 +12,5 @@ Week 4 - https://ai.studio/apps/a7cf106f-d3de-434c-9046-c2b20ccbacee - Unbeatabl
 Week 5 - https://ai.studio/apps/cfc9700f-53d4-4886-ad9c-40202747c4bb - Wumpus Agent Challenge 
 
 Week 6 - https://ai.studio/apps/3e01d97e-8672-495b-86b2-530acd7580b2 - Agent Collision
+
+Week 7 - https://ai.studio/apps/fd17a939-10ff-4999-becb-88d3168dcc0e - Sims Happiness Simulation
