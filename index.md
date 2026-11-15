@@ -1,3 +1,10 @@
+
+<div style="text-align: center; margin-bottom: 25px;">
+  <img src="assets/images/banner.png"
+       alt="AI Project Banner"
+       style="width: 400px; max-width: 100%; height: auto;">
+</div>
+
 # CU6061 - Artificial Intelligence & Machine Learning
 
 This page contains my weekly workshop activities and projects for the CU6061 module.
