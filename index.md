@@ -3,22 +3,50 @@
 This page contains my weekly workshop activities and projects for the CU6061 module.
 
 ## Week 1 - Human/AI Quiz
-[Human/AI Quiz - Michael and Zsolt](https://gainful-verify-human-pulse.base44.app/)
+
+Introduction to AI and the Turing Test.
+
+[View Week 1](workshop1/)
 
 ## Week 2 - Reflex Agents
-[Reflex Agent State Machines](https://peas-stalker-evasion.ai.studio)
 
-## Week 3 - AI Maze
-[Workshop 05 & 06 - Agent AI Maze Test and Enhancements](https://maze-algorithm-lecture-week3.ai.studio)
+Exploring reflex agents, state machines
+and decision-making.
 
-## Week 4 - Noughts and Crosses
-[Unbeatable Noughts and Crosses](https://ai.studio/apps/a7cf106f-d3de-434c-9046-c2b20ccbacee)
+[View Week 2](workshop2/)
 
-## Week 5 - Wumpus Agent
-[Wumpus Agent Challenge](https://ai.studio/apps/cfc9700f-53d4-4886-ad9c-40202747c4bb)
+## Week 3 - Goals and Pathfinding
 
-## Week 6 - Agent Collision
-[Agent Collision](https://ai.studio/apps/3e01d97e-8672-495b-86b2-530acd7580b2)
+Testing AI pathfinding algorithms and
+enhancing maze navigation.
 
-## Week 7 - Sims Simulation
-[Sims Happiness Simulation](https://ai.studio/apps/fd17a939-10ff-4999-becb-88d3168dcc0e)
+[View Week 3](workshop3/)
+
+## Week 4 - Adversarial Search
+
+Exploring minimax through an unbeatable
+Noughts and Crosses game.
+
+[View Week 4](workshop4/)
+
+## Week 5 - Knowledge-Based Systems
+
+Exploring logical agents and reasoning
+through the Wumpus World challenge.
+
+[View Week 5](workshop5/)
+
+## Week 6 - When Agents Collide
+
+Investigating how AI agents interact and
+resolve conflicts in a shared environment.
+
+[View Week 6](workshop6/)
+
+## Week 7 - Uncertainty and Markov Models
+
+Exploring state transitions and decision-making
+through a Sims happiness simulation.
+
+[View Week 7](workshop7/)
+
