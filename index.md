@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 # CU6061 - Artificial Intelligence & Machine Learning
 
 This page contains my weekly workshop activities and projects for the CU6061 module.
